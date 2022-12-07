@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ariel Calix</h1>
 <h3 align="center">A passionate Developer</h3>
-
+<img align="right" alt="Coding" width="400" src="https://app.lottiefiles.com/share/0a3c9e04-2ae6-4b50-a63c-a00be5cebe1e">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arielcalix&label=Profile%20views&color=0e75b6&style=flat" alt="arielcalix" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arielcalix" alt="arielcalix" /></a> </p>
